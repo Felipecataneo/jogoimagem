@@ -1,0 +1,1 @@
+export const drawingPrompts = ["gato", "cachorro", "sol", "flor", "carro", "árvore", "casa", "peixe", "bola", "estrela", "pássaro", "montanha", "livro", "nuvem", "borboleta", "mão", "melancia", "urso", "pipoca", "coelho"];
